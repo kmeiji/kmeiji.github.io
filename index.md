@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+My name is 문승현
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
